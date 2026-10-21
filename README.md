@@ -69,5 +69,16 @@ I'm always interested in learning, collaborating on projects, and exploring new 
 🔗 [GitHub Profile](https://github.com/Amankumarray33)
 
 ---
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankumarray33&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumarray33&layout=compact&theme=tokyonight)
+
+## 🚀 Featured Project
+
+**Campus2Career** — An AI-powered platform designed to help students practice mock interviews and receive personalized feedback.
+
+[View Campus2Career on GitHub](https://github.com/Amankumarray33/Campus2Career)
 
 ⭐ *Learning step by step, building projects, and improving every day.*
